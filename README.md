@@ -17,4 +17,4 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-https://github.com/gzm-gzm/frame/raw/master/screenshots/image.png
+https://github.com/gzm-gzm/vueScaffolding/blob/master/screenshots/image.png
